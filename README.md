@@ -26,20 +26,20 @@ Follow these steps to run the project locally:
 
 ### Prerequisites
 
-- **Node.js**: Download and install Node.js from [nodejs.org](https://nodejs.org/).
+- **Node.js**: Download and install Node.js 
   
 ### Steps to Run
 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/arthalfa-text-analysis.git
+   git clone https://github.com/aletiDheeraj2002/arthalfa.git
    ```
 
 2. **Navigate to the project directory**:
 
    ```bash
-   cd arthalfa-text-analysis
+   cd arthalfa
    ```
 
 3. **Install dependencies**:
@@ -68,7 +68,7 @@ Follow these steps to run the project locally:
 ## Folder Structure
 
 ```
-arthalfa-text-analysis/
+arthalfa/
 ├── public/
 ├── src/
 │   ├── components/
