@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Here is the text you can include inside your `README.md` file for the **ArthAlfa Text Analysis and String Replacement App**:
 
 ---
@@ -85,3 +86,7 @@ arthalfa-text-analysis/
 - **React**: JavaScript library for building interactive user interfaces.
 - **CSS**: Used for responsive styling.
 
+=======
+# arthalfa
+This is a React-based web application that allows users to perform real-time text analysis and string replacement. The app provides statistics like unique word count and character count (excluding spaces and punctuation) as the user types, along with the functionality to search and replace strings.
+>>>>>>> origin/main
